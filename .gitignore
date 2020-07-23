@@ -1,17 +1,18 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
-[Oo]bj/
-[Bb]in/
+[Oo]bj/.h/7.emx,/mv.festchannel 
+[Bb]in/tv
 
 # Other files and folders
-.settings/
+.settings/gonesomething 
 
 # Executables
 *.swf
 *.air
-*.ipa
+*.ipa.weatherchanel
 *.apk
+Open file.the Cartoon Network.ebn
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
